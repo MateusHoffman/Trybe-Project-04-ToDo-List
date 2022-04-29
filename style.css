@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  background-color: rgb(190 , 201 , 216);
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div-title {
+  background-color: rgba(255 , 255 , 255 , 0.86);
+  width: 60vw;
+  margin: 20px 0;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px 0 rgba(0 , 0 , 0 , 0.8);
+}
+
+.title {
+  text-align: center;
+  margin: 0;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-todo {
+  width: 60vw;
+  background-color: rgba(255 , 255 , 255 , 0.86);
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px 0 rgba(0 , 0 , 0 , 0.8);
+  min-height: 80vh;
+}
+
+.list-group-item {
+  cursor: pointer;
+  word-break: break-all;
+}
+
+.list-group-item:hover {
+  font-size: 1.2rem;
+}
+
+#apaga-tudo , #remover-finalizados , #salvar-tarefas , #remover-selecionado {
+  margin-bottom: 2vh;
+
+  /* margin-left: 2vh; */
+
+  /* margin-right: 2vh; */
+  width: 10vw;
+  height: 4vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#mover-cima , #mover-baixo {
+  width: 5vw;
+  height: 4vw;
+  line-height: 0.1vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnCenter {
+  display: flex;
+  justify-content: space-between;
+}
+
+.pCenter {
+  text-align: center;
+}
+
+.completed {
+  text-decoration: line-through solid black;
+}
+
+.tasks-gray {
+  background-color: gray;
+}
