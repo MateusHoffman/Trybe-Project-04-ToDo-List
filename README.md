@@ -3,7 +3,7 @@
 Project responsible for presenting my skills with HTML, CSS and JavaScript 
 
 # Access the project:
-### https://mateushoffman.github.io/Trybe-Project-03-Pixels-Art
+### https://mateushoffman.github.io/Trybe-Project-04-ToDo-List/
 
 # NOTA - 100%
 
