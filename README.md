@@ -8,11 +8,14 @@ Project responsible for presenting my skills with HTML, CSS, JavaScript, Bootstr
 # NOTA - 100%
 
 <div align="center" margin="50px">
-	<img src="img/nota-project-03-(1366x1500).png"/>
+	<img src="img/2.png"/>
 </div>
 
 # Preview:
 
 <div align="center" margin="50px">
-	<img src="img/project-03.png"/>
+	<img src="img/3.png"/>
+</div>
+<div align="center" margin="50px">
+	<img src="img/1.png"/>
 </div>
