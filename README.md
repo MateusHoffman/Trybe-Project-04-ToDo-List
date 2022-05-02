@@ -8,14 +8,12 @@ Project responsible for presenting my skills with HTML, CSS, JavaScript, Bootstr
 # NOTA - 100%
 
 <div align="center" margin="50px">
-	<img src="img/2.png"/>
+	<img src="img/app.betrybe.com_course_projects_1816.png"/>
 </div>
 
 # Preview:
 
 <div align="center" margin="50px">
-	<img src="img/3.png"/>
+	<img src="img/mateushoffman.github.io_Trybe-Project-04-ToDo-List_(D%20-%201366%20x%20768%20(%201º%20)).png"/>
 </div>
-<div align="center" margin="50px">
-	<img src="img/1.png"/>
-</div>
+
