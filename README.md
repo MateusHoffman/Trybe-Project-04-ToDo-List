@@ -1,6 +1,6 @@
-# 💚💚 Trybe-Project-03-Pixels-Art 💚💚
+# 💚💚 Trybe-Project-04-ToDo-List 💚💚
 
-Project responsible for presenting my skills with HTML, CSS and JavaScript 
+Project responsible for presenting my skills with HTML, CSS, JavaScript, Bootstrap and Local Storage
 
 # Access the project:
 ### https://mateushoffman.github.io/Trybe-Project-04-ToDo-List/
